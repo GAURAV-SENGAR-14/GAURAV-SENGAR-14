@@ -10,7 +10,7 @@ I'm a passionate developer with a keen interest in software development and tech
 - 🌱 I’m currently learning [Technology/Language]
 - 👯 I’m looking to collaborate on [Project/Technology]
 - 💬 Ask me about [Topics of Expertise]
-- 📫 How to reach me: [Your Email](mailto:your-email@example.com)
+- 📫 How to reach me: [Your Email](mailto:gauravpratapsingh966@gmail.com)
 - 😄 Pronouns: He/They
 - ⚡ Fun fact: [A fun fact about you]
 
