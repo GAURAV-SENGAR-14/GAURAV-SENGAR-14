@@ -34,5 +34,5 @@ I'm a passionate developer with a keen interest in software development and tech
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0077B5)](https://www.linkedin.com/in/your-linkedin-profile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0077B5)](https://linkedin.com/in/gaurav-pratap-singh-a0a3362a3)
 [![Twitter](https://img.shields.io/badge/-Twitter-000?&logo=Twitter&logoColor=1DA1F2)](https://twitter.com/your-twitter-profile)
