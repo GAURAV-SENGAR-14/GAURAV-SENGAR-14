@@ -1,4 +1,4 @@
-# Hi there, I'm Gaurav Sengar 👋
+# I'm GAURAV PRATAP SINGH 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=GAURAV-SENGAR-14&color=blue)
 
