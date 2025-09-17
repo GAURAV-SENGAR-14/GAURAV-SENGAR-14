@@ -7,12 +7,12 @@
 I'm a passionate developer with a keen interest in software development and technology. I love learning new things and sharing knowledge with the community.
 
 - 🔭 I’m currently working on [Your Project](https://github.com/GAURAV-SENGAR-14/Your-Project)
-- 🌱 I’m currently learning [Technology/Language]
+- 🌱 I’m currently learning java, python , cyber security.
 - 👯 I’m looking to collaborate on [Project/Technology]
 - 💬 Ask me about [Topics of Expertise]
 - 📫 How to reach me: mailto: gauravpratapsingh966@gmail.com
 - 😄 Pronouns: He/They
-- ⚡ Fun fact: [A fun fact about you]
+- ⚡ Fun fact: Learn cyber security and ethical hacking
 
 ## Languages and Tools
 
